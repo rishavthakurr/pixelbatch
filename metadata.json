@@ -1,0 +1,5 @@
+{
+  "name": "PixelBatch",
+  "description": "Bulk image processor with resizing and format conversion.",
+  "requestFramePermissions": []
+}
